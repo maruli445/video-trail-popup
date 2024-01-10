@@ -1,0 +1,7 @@
+{
+  "editor.rulers": [],
+  "editor.formatOnType": true,
+  "prettier.bracketSameLine": false,
+  "prettier.endOfLine": "auto",
+  "html.format.maxPreserveNewLines": 80
+}
